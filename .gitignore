@@ -1,0 +1,25 @@
+# Ignore vendor directory
+vendor
+
+# Ignore node_modules directory
+node_modules
+
+# Ignore storage directory
+storage
+
+# Ignore .env file
+.env
+
+# Ignore composer.lock file
+composer.lock
+
+# Ignore npm-debug.log file
+npm-debug.log
+
+# Ignore Mix-manifest.json file
+public/mix-manifest.json
+
+# Ignore Homestead.yaml file
+Homestead.yaml
+
+
